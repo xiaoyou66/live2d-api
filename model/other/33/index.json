@@ -1,0 +1,20 @@
+{
+	"posted": "Dreamer-Paul",
+	"name": "33",
+	"model": "model.moc",
+	"textures": [
+		"textures/00.png"
+	],
+	"layout": {
+		"center_x": 0.0,
+		"center_y": 0.0,
+		"width": 2.0,
+		"height":2.0
+	},
+	"hit_areas_custom": {
+		"head_x": [0, 0],
+		"head_y": [0, 0],
+		"body_x": [0, 0],
+		"body_y": [0, 0]
+	}
+}
